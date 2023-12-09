@@ -1,7 +1,7 @@
 import {
   arbitrum,
   avalanche,
-  base,
+//  base,
   bsc,
   mainnet,
   optimism,
@@ -41,7 +41,7 @@ export const evmChains = [
   mainnet,
   arbitrum,
   avalanche,
-  base,
+//  base,
   bsc,
   optimism,
   polygon,
